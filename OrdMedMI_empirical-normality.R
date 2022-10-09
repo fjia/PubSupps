@@ -1,5 +1,5 @@
 ####2022/08/15
-### OrdMedMI: Checking empirical normality of [.] in Equations 9 & 10 
+### OrdMedMI: Checking empirical normality of [.] in Equations 7
 # install.packages("moments")
 library(moments)
 n <- 10000
